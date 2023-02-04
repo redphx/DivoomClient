@@ -26,8 +26,9 @@ This example I made for M5StickC Plus. May or may not work on another ESP32 devi
 
 # TODO
 1. Add comments. Sorry for the lack of comments in the code. I'll update soon.
-2. Fix random crashing/memory problem. I'm not good at managing memory yet, so please help me on this if you can.
-3. Add support for 32x32 and 64x64 animations. Actually I already had the working code for this, but I need to make sure the library work properly on 16x16 animations first.
+2. Don't include AES & MiniLZO libs inside the library. Maybe switching to a better AES library, if possible.
+3. Fix random crashing/memory problem. I'm not good at managing memory yet, so please help me on this if you can.
+4. Add support for 32x32 and 64x64 animations. Actually I already had the working code for this, but I need to make sure the library work properly on 16x16 animations first.
 
 # Acknowledgements
 - [khoih-prog/AsyncTCP_SSL](https://github.com/khoih-prog/AsyncTCP_SSL)
