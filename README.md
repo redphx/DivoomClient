@@ -1,9 +1,11 @@
 # DivoomClient for ESP32
-Decrypt Divoom's animations so they could be displayed on LCD screen, LED matrix...
+Decrypt Divoom's animations so they could be displayed on LCD screen, LED matrix...  
+
+Python implementation: [redphx/apixoo](https://github.com/redphx/apixoo)  
 
 # Preface
 I'm really really new to Arduino/C++, so if you see I wrote something stupid, feel free to correct. I really appreciate it.  
-The library is still in early phase, but I can't continue working on it at the moment because the internet connection in where I live is extremely slow (my M5StickC couldn't even connect to Divoom server).
+The library is still in early phase.  
 
 # Demo
 ![Demo](https://user-images.githubusercontent.com/96280/216748757-42c2a993-e91c-4c64-8567-b1f133772bcc.gif)  
